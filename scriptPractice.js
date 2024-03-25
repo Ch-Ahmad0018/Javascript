@@ -1,0 +1,1 @@
+// Practice Destructuring Arrays
